@@ -1,0 +1,35 @@
+{
+    "laptop":[
+        {
+            "id": "m2q20ppMGS4m",
+            "brand":"Apple MacBook Air",
+            "serialNumber":"Uc5FK3yJ",
+            "userName":"Umayr"
+        },
+        {
+            "id": "574lPIrKwWh7",
+            "brand":"HP Spectre x360 14",
+            "serialNumber":"XmJiyU34",
+            "userName":"Reece"
+        },
+        {
+            "id":"i6lGEvv73j6f",
+            "brand":"Asus ROG Zephyrus G15",
+            "serialNumber":"qAftjbrr",
+            "userName":"Javier"
+        },
+        {
+            "id":"yyYDDtT9q119",
+            "brand":"Asus Zenbook Pro Duo 14",
+            "serialNumber":"7MJVSKzN",
+            "userName":"Maxwill"
+        },
+        {
+            "id":"5wmSGLF8g7cM",
+            "brand":"Asus ROG Zephyrus G14",
+            "serialNumber":"GrsmyKjd",
+            "userName":"Likay"
+        }
+
+    ]
+}
